@@ -1,7 +1,4 @@
-# Software Engineer.  정시원.
-
-### 배움을 즐기는 프로그래머 정시원 입니다.
-
+# Software Engineer.  jcoolstory
 <aside>
 ⚙ **안녕하세요,  정시원 입니다.**
 프론트엔드, 백엔드 풀스택 개발 기술을 가지고 있으며 python, django, flask, javascript, react, vuejs, c, c# 등의 스킬로 개발 경험이 있습니다
@@ -25,7 +22,3 @@
 - git, github, jira
 - notion, miro
 - figma, adobe xd
-
-
-***Latest Updated** 2022년 1월 1일  *****
-
