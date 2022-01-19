@@ -9,17 +9,6 @@
 
 </aside>
 
-
-# Summary
-
-
-
-- React, Typescript, React Native : Front-end 개발
-- Python, Django, flask : Back-end 개발
-- 풍부한 상용화 서비스 개발 경험
-- 다양한 플랫폼 경험, 다양한 기술스택 경험
-- 복잡한 문제를 풀어나가는 문제해결 능력
-
 # Skills
 
 
@@ -37,45 +26,6 @@
 - notion, miro
 - figma, adobe xd
 
-# Awards/Licenses
-
-
-- **자격증**
-    
-    정보처리기사 *2017.03*
-
----
-
-- **기타**
-    - 특허출원
-        
-        초음파 영상에 2차원 도면을 오버레이하는 방법 및 장치(METHOD AND APPARATUS FOR OVERLAYING 2D DRAWING AT ULTRASONIC WAVES IMAGE)
-        
-        *2016.08*
-
-# Contact
-
-
-- **E-mail**
-    
-    taiiji9@nate.com
-    
-- **Linked In**
-    
-    [www.linkedin.com/in/jcools-387b66145](http://www.linkedin.com/in/jcools-387b66145)
-    
-
-- **Github**
-    
-    [https://github.com/jcoolstory/](https://github.com/jcoolstory/)
-    
-- **Rocket Punch**
-    
-    [www.rocketpunch.com/@jcoolstory/](https://www.rocketpunch.com/@jcoolstory/)
-    
-
-
-Copyright ©2021, Jeong siwon All Rights Reserved.
 
 ***Latest Updated** 2022년 1월 1일  *****
 
