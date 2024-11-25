@@ -8,16 +8,12 @@
 
 # Skills
 
-
-
+- react, redux, storybook,
 - python, javascript, typescript, c, c#, java
-- django, flask, pandas, numpy,  spring
-- react, redux, storybook, vue.js,
+- django, flask, pandas, numpy,  spring, vue.js,
 - aws, docker, docker-compose, jenkins
 
 # Tools
-
-
 
 - git, github, jira
 - notion, miro
